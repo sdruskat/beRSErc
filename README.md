@@ -32,8 +32,8 @@ or an email to [Stephan Druskat](https://www.dlr.de/sc/en/desktopdefault.aspx/ta
 Let's build the agenda together interactively:
 
 - To add an item to the agenda, please create an issue on <https://github.com/sdruskat/beRSErc>.
-- To prioritize an agenda item, please upvote the issue with :thumbsup:.
-- To vote down an agenda item, please upvote the issue with :thumbsdown:.
+- To prioritize an agenda item, please upvote the issue with the *thumbs up* emoji.
+- To vote down an agenda item, please upvote the issue with the *thumbs down* emoji.
 
 Adding items and voting is possible right up until the meeting starts.
 
