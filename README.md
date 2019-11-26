@@ -4,39 +4,43 @@ Welcome to the website (prototype) for the **b**erlin-brand**e**nburg **RSE** **
 
 beRSErc is an open group of people from the area who care about research software.
 
-## Inaugural meeting
+## Next meeting
 
-Our first face-to-face meeting will take place
+### 2019-12-11
 
-> Wednesday, **6 November 2019**  
+
+Our next face-to-face meeting will take place
+
+> Wednesday, **11 December 2019**  
 > **20:00**  
-> at **Onionspace**  
-> Gottschedstr. 4, Aufgang 4  
-> 13357 Berlin
+> at **Excellence Cluster *Matters of Activity***  
+> Address tba
 
-The Onionspace team have been nice enough to offer us their room for free, thanks a lot!
+- Agenda & notes: <https://pad.gwdg.de/s/BJ8ZbO93r#>
 
-We'll have wifi and a projector as well as - probably - a selection of mineral water and mate available for sale.
-The space also has a small kitchen w/ microwave that we could use.
+#### Topic
 
-Please **bring your own food, drinks** (other than mate and water), **and snacks**!
+- *Best practices in Research Software Engineering* (tbc)
 
-### "Register" for the inaugural meeting
+##### Speakers
 
-The gate will be locked from approx. 20:00, and the door bell to the building doesn't work right now.
-If you plan on participating, please write a **private message** to @p.sdruska on the <https://chat.gwdg.de/channel/derse_berlin_brandenburg>,
-or an email to [Stephan Druskat](https://www.dlr.de/sc/en/desktopdefault.aspx/tabid-1192/1635_read-37013/sortby-b_city/), to receive the **code to the gate** and a **mobile number to call on arrival**.
+- **tba**
 
-### Agenda
+#### Details: 
 
-Let's build the agenda together interactively:
+- Available tech (projector, etc.): tba
+- Food and drinks poliy: tba
 
-- To add an item to the agenda, please create an issue on <https://github.com/sdruskat/beRSErc/issues>.
-- To prioritize an agenda item, please upvote the issue with the *thumbs up* emoji. 👍 
-- To vote down an agenda item, please upvote the issue with the *thumbs down* emoji. 👎 
+### Register for the next meeting
 
-Adding items and voting is possible right up until the meeting starts.
-
-We can also decide to scrap the agenda at the beginning of the meeting and start anew :).
+- **tba**
 
 # **Let's go beRSErc!**
+
+## Past meetings
+
+- 2019-11-06, Berlin, Onionspace
+
+## Index of meetings documents
+
+- We maintain a list of meeting docs at <http://bit.ly/berserc-index>.
