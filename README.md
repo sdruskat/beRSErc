@@ -28,8 +28,8 @@ Our next face-to-face meeting will take place
 
 #### Details: 
 
-- Available tech (projector, etc.): tba
-- Food and drinks poliy: tba
+- Available tech (projector, etc.): *tba*
+- Food and drinks policy: *tba*
 
 ### Register for the next meeting
 
