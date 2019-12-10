@@ -1,3 +1,7 @@
+| :exclamation: |	**Repository will be archived soon!** |
+|-|-|
+|:warning:|Please note that the beRSErc site repository has been moved to<br/>https://github.com/de-RSE/beRSErc.<br/>This repository (`sdruskat/beRSErc`) will be archived soon!|
+
 # beRSErc - Berlin-Brandenburg RSE regional chapter
 
 Welcome to the website (prototype) for the **b**erlin-brand**e**nburg **RSE** **r**egional **c**hapter, the - you guessed it - regional chapter of [de-RSE](https://de-rse.org) in Berlin and Brandenburg.
